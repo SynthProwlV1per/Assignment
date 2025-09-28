@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759052881 source:/home/synthprowlv1per/Desktop/Assignment/ banking system simulator/main.cpp
+	<iostream>
+	<string>
+
